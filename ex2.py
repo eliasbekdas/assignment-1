@@ -1,4 +1,4 @@
-# Prompt the user for credit score (int, assume 300-850 range).
+# Prompt the user for credit score (int, assume 300-850 range). 
 score = int(input("Enter your credit score: "))
 
 # Check validity first
